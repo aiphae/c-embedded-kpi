@@ -1,0 +1,7 @@
+*.settings/
+*Debug/
+*Drivers/
+*.mxproject
+*.launch
+*.ld
+*.idea
